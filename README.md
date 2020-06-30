@@ -1,2 +1,2 @@
-# libevent
-libevent库
+# Cross platform library
+Cross platform library
